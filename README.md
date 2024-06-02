@@ -27,8 +27,8 @@ First, ensure that your Raspberry Pi is set up and connected to the Camera Modul
 
 2. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourgithub/ASL_Recognition_RPi.git
-    cd ASL_Recognition_RPi
+    git clone https://github.com/gretab5802/asl-recognition.git
+    cd asl-recognition
     ```
 
 3. **Prepare the Dataset:**
