@@ -38,7 +38,7 @@ First, ensure that your Raspberry Pi is set up and connected to the Camera Modul
 To run the application, execute the main script from the terminal:
 
 ```bash
-python asl_recognition.py
+python cleaned_hand_landmark_test.py
 ```
 
 The script will:
